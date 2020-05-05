@@ -1,4 +1,4 @@
-# L1T12 - Finance Calculators
+# Financial Calculators
 This program provides two simple financial calculators. One will calculate the amount of interest to be earned on an investment, while the other calculates the amount owed on a home loan.
 
 ## Prerequisites
